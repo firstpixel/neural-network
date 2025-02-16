@@ -1,4 +1,4 @@
-# Neural Network with Checkpointing
+# Neural Network with Checkpoint
 
 This project is a Python implementation of a feed-forward neural network originally written in C. It demonstrates:
 
